@@ -9,5 +9,5 @@ MIT and Harvard bus routes.
          
 ## Future improvement
 
-The project can be further enchanced by adding and finding many different routes between start point 
+The project can be further enhanced by adding and finding many different routes between start point 
 to end point.
